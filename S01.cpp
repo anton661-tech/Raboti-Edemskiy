@@ -13,7 +13,7 @@ int main()
     cout << "Summ " << c << endl;
     cout << "Raznost' " << a-b << endl;
     cout << "Proiz " << a*b << endl;
-    cout << "Proiz " << a/b << endl;
+    cout << "Delenie " << a/b << endl;
 
 
     return 0;
